@@ -1,0 +1,45 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    border-radius: 30%;
+    border-style: groove;
+    
+}
+
+img{
+    margin: 0 auto; 
+}
+
+header{
+    text-align: center;
+}
+
+#login{
+    border-radius: 30%;
+    background-color: aqua;
+}
+
+#register{
+    border-radius: 30%;
+    background-color: yellow;
+}
+
+body{
+    background-image: url(images/fondo.jpg);
+}
+
+#pfooter{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer{
+    background-color: black;
+    background-size: 2%;
+    margin-top: 400px;
+
+}
+
